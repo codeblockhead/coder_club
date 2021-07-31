@@ -105,3 +105,5 @@ dist
 
 #上传图片
 upload/
+
+ecosystem.config.js
